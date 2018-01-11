@@ -1,0 +1,10 @@
+C:\dev\object-oriented-programming2\object-method\TaskPerson\TaskPerson\bin\Debug\netcoreapp1.1\TaskPerson.deps.json
+C:\dev\object-oriented-programming2\object-method\TaskPerson\TaskPerson\bin\Debug\netcoreapp1.1\TaskPerson.runtimeconfig.json
+C:\dev\object-oriented-programming2\object-method\TaskPerson\TaskPerson\bin\Debug\netcoreapp1.1\TaskPerson.runtimeconfig.dev.json
+C:\dev\object-oriented-programming2\object-method\TaskPerson\TaskPerson\obj\Debug\netcoreapp1.1\TaskPerson.csprojResolveAssemblyReference.cache
+C:\dev\object-oriented-programming2\object-method\TaskPerson\TaskPerson\obj\Debug\netcoreapp1.1\TaskPerson.csproj.CoreCompileInputs.cache
+C:\dev\object-oriented-programming2\object-method\TaskPerson\TaskPerson\obj\Debug\netcoreapp1.1\TaskPerson.AssemblyInfo.cs
+C:\dev\object-oriented-programming2\object-method\TaskPerson\TaskPerson\bin\Debug\netcoreapp1.1\TaskPerson.dll
+C:\dev\object-oriented-programming2\object-method\TaskPerson\TaskPerson\bin\Debug\netcoreapp1.1\TaskPerson.pdb
+C:\dev\object-oriented-programming2\object-method\TaskPerson\TaskPerson\obj\Debug\netcoreapp1.1\TaskPerson.dll
+C:\dev\object-oriented-programming2\object-method\TaskPerson\TaskPerson\obj\Debug\netcoreapp1.1\TaskPerson.pdb
