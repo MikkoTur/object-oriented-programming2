@@ -1,0 +1,10 @@
+C:\dev\object-oriented-programming2\object-method\TaskPerson\TaskCar\bin\Debug\netcoreapp1.1\TaskCar.deps.json
+C:\dev\object-oriented-programming2\object-method\TaskPerson\TaskCar\bin\Debug\netcoreapp1.1\TaskCar.runtimeconfig.json
+C:\dev\object-oriented-programming2\object-method\TaskPerson\TaskCar\bin\Debug\netcoreapp1.1\TaskCar.runtimeconfig.dev.json
+C:\dev\object-oriented-programming2\object-method\TaskPerson\TaskCar\bin\Debug\netcoreapp1.1\TaskCar.dll
+C:\dev\object-oriented-programming2\object-method\TaskPerson\TaskCar\bin\Debug\netcoreapp1.1\TaskCar.pdb
+C:\dev\object-oriented-programming2\object-method\TaskPerson\TaskCar\obj\Debug\netcoreapp1.1\TaskCar.csprojResolveAssemblyReference.cache
+C:\dev\object-oriented-programming2\object-method\TaskPerson\TaskCar\obj\Debug\netcoreapp1.1\TaskCar.csproj.CoreCompileInputs.cache
+C:\dev\object-oriented-programming2\object-method\TaskPerson\TaskCar\obj\Debug\netcoreapp1.1\TaskCar.AssemblyInfo.cs
+C:\dev\object-oriented-programming2\object-method\TaskPerson\TaskCar\obj\Debug\netcoreapp1.1\TaskCar.dll
+C:\dev\object-oriented-programming2\object-method\TaskPerson\TaskCar\obj\Debug\netcoreapp1.1\TaskCar.pdb
