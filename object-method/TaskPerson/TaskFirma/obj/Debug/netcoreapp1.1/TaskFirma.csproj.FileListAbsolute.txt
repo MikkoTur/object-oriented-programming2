@@ -1,0 +1,10 @@
+C:\dev\object-oriented-programming2\object-method\TaskPerson\TaskFirma\bin\Debug\netcoreapp1.1\TaskFirma.deps.json
+C:\dev\object-oriented-programming2\object-method\TaskPerson\TaskFirma\bin\Debug\netcoreapp1.1\TaskFirma.runtimeconfig.json
+C:\dev\object-oriented-programming2\object-method\TaskPerson\TaskFirma\bin\Debug\netcoreapp1.1\TaskFirma.runtimeconfig.dev.json
+C:\dev\object-oriented-programming2\object-method\TaskPerson\TaskFirma\bin\Debug\netcoreapp1.1\TaskFirma.dll
+C:\dev\object-oriented-programming2\object-method\TaskPerson\TaskFirma\bin\Debug\netcoreapp1.1\TaskFirma.pdb
+C:\dev\object-oriented-programming2\object-method\TaskPerson\TaskFirma\obj\Debug\netcoreapp1.1\TaskFirma.csprojResolveAssemblyReference.cache
+C:\dev\object-oriented-programming2\object-method\TaskPerson\TaskFirma\obj\Debug\netcoreapp1.1\TaskFirma.csproj.CoreCompileInputs.cache
+C:\dev\object-oriented-programming2\object-method\TaskPerson\TaskFirma\obj\Debug\netcoreapp1.1\TaskFirma.AssemblyInfo.cs
+C:\dev\object-oriented-programming2\object-method\TaskPerson\TaskFirma\obj\Debug\netcoreapp1.1\TaskFirma.dll
+C:\dev\object-oriented-programming2\object-method\TaskPerson\TaskFirma\obj\Debug\netcoreapp1.1\TaskFirma.pdb
