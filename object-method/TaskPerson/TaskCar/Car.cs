@@ -41,6 +41,11 @@ namespace TaskCar
                 Console.WriteLine($"Nopeutta lisättii {speed1} kertaiseksi, uusi nopeus on {speed1 * Speed}km/h\n");
 
         }
+        public void Brake()
+        {
+            double speed2 = Speed * 0.9;
+            Console.WriteLine($"Nopeutta hidastettiin 10%, uusi nopeus on {speed2} km/h\n");
+        }
 
     }
 }

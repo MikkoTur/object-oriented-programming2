@@ -12,11 +12,13 @@ namespace TaskCar
             newCar.AskData();
             newCar.ShowCarInfo();
             newCar.Accelerate();
+            newCar.Brake();
 
             Car newCar2 = new Car();
             newCar2.AskData();
             newCar2.ShowCarInfo();
             newCar2.Accelerate();
+            newCar2.Brake();
 
             Console.ReadKey();
 
