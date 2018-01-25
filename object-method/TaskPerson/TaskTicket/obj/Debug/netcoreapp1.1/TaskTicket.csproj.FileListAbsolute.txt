@@ -1,0 +1,10 @@
+C:\dev\object-oriented-programming2\object-method\TaskPerson\TaskTicket\bin\Debug\netcoreapp1.1\TaskTicket.deps.json
+C:\dev\object-oriented-programming2\object-method\TaskPerson\TaskTicket\bin\Debug\netcoreapp1.1\TaskTicket.runtimeconfig.json
+C:\dev\object-oriented-programming2\object-method\TaskPerson\TaskTicket\bin\Debug\netcoreapp1.1\TaskTicket.runtimeconfig.dev.json
+C:\dev\object-oriented-programming2\object-method\TaskPerson\TaskTicket\obj\Debug\netcoreapp1.1\TaskTicket.csprojResolveAssemblyReference.cache
+C:\dev\object-oriented-programming2\object-method\TaskPerson\TaskTicket\obj\Debug\netcoreapp1.1\TaskTicket.csproj.CoreCompileInputs.cache
+C:\dev\object-oriented-programming2\object-method\TaskPerson\TaskTicket\obj\Debug\netcoreapp1.1\TaskTicket.AssemblyInfo.cs
+C:\dev\object-oriented-programming2\object-method\TaskPerson\TaskTicket\bin\Debug\netcoreapp1.1\TaskTicket.dll
+C:\dev\object-oriented-programming2\object-method\TaskPerson\TaskTicket\bin\Debug\netcoreapp1.1\TaskTicket.pdb
+C:\dev\object-oriented-programming2\object-method\TaskPerson\TaskTicket\obj\Debug\netcoreapp1.1\TaskTicket.dll
+C:\dev\object-oriented-programming2\object-method\TaskPerson\TaskTicket\obj\Debug\netcoreapp1.1\TaskTicket.pdb
