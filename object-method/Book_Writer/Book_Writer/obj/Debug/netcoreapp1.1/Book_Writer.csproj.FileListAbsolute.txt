@@ -1,0 +1,10 @@
+C:\dev\object-oriented-programming2\object-method\Book_Writer\Book_Writer\bin\Debug\netcoreapp1.1\Book_Writer.deps.json
+C:\dev\object-oriented-programming2\object-method\Book_Writer\Book_Writer\bin\Debug\netcoreapp1.1\Book_Writer.runtimeconfig.json
+C:\dev\object-oriented-programming2\object-method\Book_Writer\Book_Writer\bin\Debug\netcoreapp1.1\Book_Writer.runtimeconfig.dev.json
+C:\dev\object-oriented-programming2\object-method\Book_Writer\Book_Writer\bin\Debug\netcoreapp1.1\Book_Writer.dll
+C:\dev\object-oriented-programming2\object-method\Book_Writer\Book_Writer\bin\Debug\netcoreapp1.1\Book_Writer.pdb
+C:\dev\object-oriented-programming2\object-method\Book_Writer\Book_Writer\obj\Debug\netcoreapp1.1\Book_Writer.csprojResolveAssemblyReference.cache
+C:\dev\object-oriented-programming2\object-method\Book_Writer\Book_Writer\obj\Debug\netcoreapp1.1\Book_Writer.csproj.CoreCompileInputs.cache
+C:\dev\object-oriented-programming2\object-method\Book_Writer\Book_Writer\obj\Debug\netcoreapp1.1\Book_Writer.AssemblyInfo.cs
+C:\dev\object-oriented-programming2\object-method\Book_Writer\Book_Writer\obj\Debug\netcoreapp1.1\Book_Writer.dll
+C:\dev\object-oriented-programming2\object-method\Book_Writer\Book_Writer\obj\Debug\netcoreapp1.1\Book_Writer.pdb
