@@ -1,0 +1,10 @@
+C:\dev\object-oriented-programming2\object-method\Vehicle\Vehicle\bin\Debug\netcoreapp1.1\Vehicle.deps.json
+C:\dev\object-oriented-programming2\object-method\Vehicle\Vehicle\bin\Debug\netcoreapp1.1\Vehicle.runtimeconfig.json
+C:\dev\object-oriented-programming2\object-method\Vehicle\Vehicle\bin\Debug\netcoreapp1.1\Vehicle.runtimeconfig.dev.json
+C:\dev\object-oriented-programming2\object-method\Vehicle\Vehicle\bin\Debug\netcoreapp1.1\Vehicle.dll
+C:\dev\object-oriented-programming2\object-method\Vehicle\Vehicle\bin\Debug\netcoreapp1.1\Vehicle.pdb
+C:\dev\object-oriented-programming2\object-method\Vehicle\Vehicle\obj\Debug\netcoreapp1.1\Vehicle.csprojResolveAssemblyReference.cache
+C:\dev\object-oriented-programming2\object-method\Vehicle\Vehicle\obj\Debug\netcoreapp1.1\Vehicle.csproj.CoreCompileInputs.cache
+C:\dev\object-oriented-programming2\object-method\Vehicle\Vehicle\obj\Debug\netcoreapp1.1\Vehicle.AssemblyInfo.cs
+C:\dev\object-oriented-programming2\object-method\Vehicle\Vehicle\obj\Debug\netcoreapp1.1\Vehicle.dll
+C:\dev\object-oriented-programming2\object-method\Vehicle\Vehicle\obj\Debug\netcoreapp1.1\Vehicle.pdb
