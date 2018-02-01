@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace Book_Writer
+namespace Literature
 {
     class Book
     {
