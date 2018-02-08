@@ -4,7 +4,7 @@ using System.Text;
 
 namespace Vehicle
 {
-    class KuormaAuto
+    class KuormaAuto : Car
     {
     }
 }
