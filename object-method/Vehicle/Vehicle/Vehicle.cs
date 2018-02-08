@@ -29,12 +29,12 @@ namespace Vehicle
             Price = 0;
         }
 
-        public void PrintInfo()
+        public virtual string PrintInfo()
         {
-            Console.WriteLine($"Auton tyyppi: {Type}\n" +
+           return $"Auton tyyppi: {Type}\n" +
                 $"Auton merkki: {Brand}\n" +
                 $"Vuosimalli: {Year}\n" +
-                $"Hinta: {Price:C}");
+                $"Hinta: {Price:C}";
         }
     }
 }
