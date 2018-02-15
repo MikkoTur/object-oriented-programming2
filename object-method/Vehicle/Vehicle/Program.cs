@@ -23,6 +23,8 @@ namespace Vehicle
 
             Console.WriteLine($"Onko BMW moottori isompi kuin Nissanin {uusiAuto1.Equals(uusiAuto2)}\n");
 
+            Vehicle uusiVehicle3 = new Vehicle("Lava-auto", "Ford", "2015", 60000);
+            Console.WriteLine(uusiVehicle3.PrintInfo());
             KuormaAuto uusiKa = new KuormaAuto(6.0, "Ford", 5, 5000, 10);
             uusiKa.PrintInfo();
 
