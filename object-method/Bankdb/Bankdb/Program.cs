@@ -1,4 +1,7 @@
 ﻿using System;
+using System.Linq;
+using Bankdb.Models;
+using Bankdb.Repositories;
 
 namespace Bankdb
 {
@@ -6,7 +9,15 @@ namespace Bankdb
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Console.WriteLine("Tervetuloa");
+            BankRepository bankRepository = new BankRepository();
+            Bank bank = new Bank();
+            bank.Name = "Säästöpankki";
+            bank.Bic = "ITELFIHH";
+            bankRepository.Create(bank);
+
+            Console.ReadLine();
+
         }
     }
 }
