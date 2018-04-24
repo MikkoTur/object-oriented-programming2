@@ -46,7 +46,7 @@ namespace Bankdb.Repositories
                 {
                     context.Add(transaction);
                     var account = GetAccountByIban(transaction.Iban);
-                    //decimal balanceBeforeTransaction = account.Balance;
+                    decimal balanceBeforeTransaction = account.Balance;
                     account.Balance += transaction.Amount;
 
                     //Update account-table

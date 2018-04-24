@@ -6,13 +6,13 @@ using Bankdb.Repositories;
 
 namespace Bankdb.Repositories
 {
-    interface ICustomer
+    interface IAccount
     {
         List<Bank> GetBanks();
         List<Bank> GetBankCustomers();
         List<Bank> GetBankAccounts();
-        void Create(Customer customer);
-        void Update(int id, Customer customer);
-        void Delete(int id);
+        void Create(Account account);
+        void Update(string iban, Account account);
+        void Delete(int iban);
     }
 }

@@ -23,11 +23,6 @@ namespace Bankdb.Repositories
             _context.SaveChanges();
         }
 
-        public void Create(CustomerRepository customer)
-        {
-            throw new NotImplementedException();
-        }
-
         public void Delete(int id)
         {
             var delCustomer = _context.Customer.FirstOrDefault(p => p.Id == id);
@@ -60,6 +55,23 @@ namespace Bankdb.Repositories
             }
 
         }
+        public List<Customer> GetCustomers()
+        {
+            using (var context = new BankdbContext())
+            {
+                try
+                {
+                    List<Customer> customers = context.Customer.ToListAsync().Result;
+                    return customers;
+                }
+                catch (Exception ex)
+                {
+                    throw new NotImplementedException($"{ex.Message}\n{ex.InnerException.Message} \n");
+                }
+
+            }
+
+        }
 
         public List<Bank> GetBanks()
         {
@@ -76,6 +88,16 @@ namespace Bankdb.Repositories
                 }
 
             }
+
+        }
+        public Customer GetLastCustomer()
+        {
+            using (var context = new BankdbContext())
+                return context.Customer.LastOrDefault();
+        }
+        public void Update(int id, Customer customer)
+        {
+
         }
     }
 }
