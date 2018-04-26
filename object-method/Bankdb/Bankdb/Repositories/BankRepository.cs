@@ -78,5 +78,29 @@ namespace Bankdb.Repositories
             }
             _context.SaveChanges();
         }
+
+
+        public List<Bank> GetTransactionsFromBankCustomersAccounts()
+        {
+            using (var context = new BankdbContext())
+            {
+                try
+                {
+                    List<Bank> banks = context.Bank.
+                        Include(b => b.Customer)
+                        .Include(b => b.Account)
+                        .Include(b => b.Account)
+                        .ThenInclude(a => a.Transaction)
+                        .ToListAsync().Result;
+                    return banks;
+
+                }
+                catch (Exception ex)
+                {
+                    throw new NotImplementedException($"{ex.Message}");
+                }
+
+            }
+        }
     }
 }

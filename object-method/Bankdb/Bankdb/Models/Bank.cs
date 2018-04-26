@@ -25,5 +25,10 @@ namespace Bankdb.Models
         public ICollection<Account> Account { get; set; }
         [InverseProperty("Bank")]
         public ICollection<Customer> Customer { get; set; }
+
+        public override string ToString()
+        {
+            return $"{Name} {Bic} {Id}";
+        }
     }
 }

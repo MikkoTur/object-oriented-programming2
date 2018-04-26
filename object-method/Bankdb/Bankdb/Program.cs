@@ -65,6 +65,10 @@ namespace Bankdb
 
             ViewBank viewBank = new ViewBank();
             viewBank.PrintCustomer();
+            Console.WriteLine("----------------------");
+            viewBank.PrintBank();
+            Console.WriteLine("----------------------");
+            viewBank.PrintTransaction();
 
             //Kertoo kun ohjelma on valmis
             Console.WriteLine("Hello");
